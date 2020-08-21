@@ -12,9 +12,4 @@ def check(leftStrand, rightStrand):
             
     print(differences)
 
-
-
-
 check(leftStrand, rightStrand)
-
-
