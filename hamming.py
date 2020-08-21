@@ -10,6 +10,6 @@ def check(leftStrand, rightStrand):
             if x != y:
                 differences += 1
             
-    print(differences)
+    print('The Hamming Distance is ' + str(differences))
 
 check(leftStrand, rightStrand)
